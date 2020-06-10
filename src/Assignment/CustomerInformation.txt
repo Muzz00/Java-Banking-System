@@ -1,0 +1,30 @@
+1,Mohamed Muzzammil P A,6A Denize Road,0233297293,20,M
+2,David Zhong,Albert Road,0234948054,20,M
+3,Peter Lim,Ponsonby Road,0234413549,30,M
+4,Emily Huang,3A Carrington Road,0213453435,20,F
+5,John Stotnes,544 Queens Street,0224559329,34,M
+6,Robert Hughes,34 Great North Road,0235947593,23,M
+7,Guillermo Ramirez,Carrignton road,021344054,44,M
+8,Armaan Buttar,Carrington Road,0214359673,21,M
+9,Jaskirat Singh,Carrrignton Road, 022433566,21,M
+10,Dave Jackson,123 Cambridge Road,0233485923,26,M
+11,Armaan,321 Carrignton Road,0234958293,21,M
+12,Aswin,123 Mount Albert Road,02344523323,18,M
+13,Andrew,123 Carrington Road,0234343431,23,M
+14,Atichat Khanma,123 Sandrigham Road,0234234356,43,M
+15,Bill Gates,986 America Road,0234322335,23,M
+16,Kono,321 Carrington Road,02334345430,34,M
+17,Muzz,432 Denize Rd,0234342499,20,M
+18,Yu Lin,312 Albert Rd,023423432,20,M
+19,Roberto Firmino,451 May Road,0234356732,28,M
+20,Jordan Henderson,123 Liverpool Road,0224586400,29,M
+21,Javi Martinez,345 Munich Road,0214548319,31,M
+22,David Brown,368 Carrington Road,0235349220,23,M
+23,Joe Thomlinson,456 BIg Ben Street,0225493464,25,M
+24,Jack Gil,432 Roskill Road,02342344542,43,M
+25,Brad Smith,435 Roskill Road,02335456843,45,M
+26,Tanguo Li,321 Albert Road,0234433444,23,M
+27,Steven,123 Mt roskill Road,0234342325,23,M
+28,Jack David,432 Ubi Ave,98374632,20,M
+29,Azhar,323 Roskill Rd,82342341,27,M
+30,Neil Jones,123 Waterloo Street,023384053,26,M
